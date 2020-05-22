@@ -33,4 +33,10 @@ public class MainActivity extends Activity {
         }
         return super.onOptionsItemSelected(item);
     }
+    
+    public void add(String name)
+    {
+    	int a;
+    	a =8;
+    }
 }
